@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/01/choosing-raid-array-for-your-business.html"}
-if(x=="2"){xxx="/2019/01/why-best-raid-configuration-is-no-raid.html"}
-if(x=="3"){xxx="/2019/01/data-recovery-from-damaged-raid-5-array.html"}
-if(x=="4"){xxx="/2019/01/understanding-raid-for-data-storage-and.html"}
-if(x=="5"){xxx="/2019/01/nas-vs-raid-how-they-differ-and-overlap.html"}a_to_ve[i].href="http://www.fasterway.club"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/01/the-purpose-of-erp-software-system-in.html"}
+if(x=="2"){xxx="/2019/01/erp-implementation-how-to-implement-erp.html"}
+if(x=="3"){xxx="/2019/01/custom-erp-software-development-is-it.html"}
+if(x=="4"){xxx="/2019/01/difference-between-erp-software-system.html"}
+if(x=="5"){xxx="/2019/01/erp-software-system-integration-for.html"}a_to_ve[i].href="http://www.fasterway.club"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
